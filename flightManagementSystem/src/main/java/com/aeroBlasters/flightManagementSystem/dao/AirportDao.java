@@ -12,5 +12,3 @@ public interface AirportDao {
    List<String> findAllAirportLocations();
 
 }
-
-

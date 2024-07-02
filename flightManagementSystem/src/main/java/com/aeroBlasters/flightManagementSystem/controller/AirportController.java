@@ -69,6 +69,5 @@ public class AirportController {
 		mv.addObject("airport",airport);
 		return mv;
 	}
-
-
 }
+

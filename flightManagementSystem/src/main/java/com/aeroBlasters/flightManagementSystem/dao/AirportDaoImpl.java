@@ -44,7 +44,4 @@ public class AirportDaoImpl implements AirportDao {
 		// TODO Auto-generated method stub
 		return repository.findAllAirportLocations();
 	}
-
- 
-	
 }

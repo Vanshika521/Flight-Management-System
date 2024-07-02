@@ -71,6 +71,7 @@
                         <label for="arrival">Enter Arrival Time:</label>
                         <form:input path="arrival" class="form-control" id="arrival"/>
                     </div>
+                    <form:hidden path="seatBooked" value = "0"/>
                     <div class="form-group">
                         <label for="dtime">Enter Return Flight Departure Time:</label>
                         <input type="text" name="dtime" class="form-control" id="dtime"/>
