@@ -38,7 +38,7 @@ public class Airport {
 		this.airportLocation = airportLocation;
 	}
 
-	// toString method
+	// toString method 
 	@Override
 	public String toString() {
 		return "Airport{" +
