@@ -1,4 +1,5 @@
 //............************...............IHATEYOU............************..........
+
 package com.aeroBlasters.flightManagementSystem.bean;
 
 import javax.persistence.Entity;
